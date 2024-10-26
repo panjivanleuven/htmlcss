@@ -10,3 +10,6 @@ cara copy file cepat (Linux Debian & Ubuntu)
 3. setelah login menggunakan akun github ketik di terminal "gh repo clone panjivanleuven/htmlcss"
 4. tunggu sampai download selesai
 5. ganti gambar di folder "images"
+
+jika banyak bug, yasudah
+gratis sj bagi yang minaj
