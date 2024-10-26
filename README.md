@@ -13,6 +13,7 @@ cara copy file cepat (Linux Debian & Ubuntu)
 
 
 gratis sj bagi yang minaj
+
 tidak sepenuhnya responsive
 
 CR : GreatStack
