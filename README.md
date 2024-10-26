@@ -13,3 +13,5 @@ cara copy file cepat (Linux Debian & Ubuntu)
 
 
 gratis sj bagi yang minaj
+
+CR : GreatStack
