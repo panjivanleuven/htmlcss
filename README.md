@@ -11,5 +11,5 @@ cara copy file cepat (Linux Debian & Ubuntu)
 4. tunggu sampai download selesai
 5. ganti gambar di folder "images"
 
-jika banyak bug, yasudah
+
 gratis sj bagi yang minaj
